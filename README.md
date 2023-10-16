@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Danh, a moblie developer </h1>
 
- [![congdanh2504's github stats](https://github-readme-stats.vercel.app/api?username=congdanh25041&show_icons=true&show_icons=true&theme=buefy&count_private=true&cache_seconds=1800&line_height=24)](https://github.com/congdanh2504)
+ [![congdanh2504's github stats](https://github-readme-stats.vercel.app/api?username=congdanh2504&show_icons=true&show_icons=true&theme=buefy&count_private=true&cache_seconds=1800&line_height=24)](https://github.com/congdanh2504)
   
   ### Skills
 
